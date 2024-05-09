@@ -37,7 +37,7 @@ SoftwareSerial: Enables communication between the Arduino and GPS module on pins
 |--------|--------|-------|
 | Arduino UNO board | Board | [35 RON](https://www.optimusdigital.ro/ro/compatibile-cu-arduino-uno/1678-placa-de-dezvoltare-compatibila-cu-arduino-uno-atmega328p-i-ch340.html?search_query=placa+arduino+uno&results=85) |
 | GPS Module GY-NEO6MV2 with antenna | GPS | [45 RON](https://www.optimusdigital.ro/ro/gps/105-modul-gps-gy-neo6mv2.html?search_query=gps&results=54) |
-| OLED module 0.49'' IIC 14 Pins | Display | [15 RON](https://www.optimusdigital.ro/ro/optoelectronice-lcd-uri/12586-oled-module-049-iic-14-pins.html?search_query=modul+oled&results=20) |
+| 1.44'' LCD module with SPI and ST7735 Controller (128x128 px) | Display | [15 RON](https://www.optimusdigital.ro/ro/optoelectronice-lcd-uri/3552-modul-lcd-de-144-cu-spi-i-controller-st7735-128x128-px.html?search_query=lcd&results=211) |
 | Push Button | Button | [1 RON](https://www.optimusdigital.ro/ro/butoane-i-comutatoare/1119-buton-6x6x6.html?search_query=buton&results=222) |
 | Jumper Wires | Connecting components | [7 RON](https://www.optimusdigital.ro/ro/fire-fire-mufate/884-set-fire-tata-tata-40p-10-cm.html?search_query=set+fire&results=110) |
 | Breadboard | Project board | [10 RON](https://www.optimusdigital.ro/ro/prototipare-breadboard-uri/8-breadboard-830-points.html?search_query=breadboard&results=145) |
