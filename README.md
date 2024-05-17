@@ -1,4 +1,4 @@
-# Your Project Name
+Pokémon Go
 
 | | |
 |-|-|
@@ -29,7 +29,7 @@ SoftwareSerial: Enables communication between the Arduino and GPS module on pins
 
 ### Schematic
 
-![Schematic](schematics/kicad_schematic.png)
+![Schematic](Schematica.png)
 
 ### Components
 
@@ -69,8 +69,7 @@ SoftwareSerial: Enables communication between the Arduino and GPS module on pins
 
 <!-- Fill in with appropriate links and link titles -->
 
-[Tutorial 1](https://www.youtube.com/watch?v=wdgULBpRoXk&t=1s&ab_channel=BenEater)
+[Tutorial 1](https://forum.arduino.cc/t/beginners-guidance-gps-module-neo-6m/889018)
 
-[Article 1](https://www.explainthatstuff.com/induction-motors.html)
+[Article 1](https://forum.arduino.cc/t/how-to-connect-neo-6m-gps-module/939321)
 
-[Link title](https://projecthub.arduino.cc/)
